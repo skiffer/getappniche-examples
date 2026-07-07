@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "getappniche": {
+      "command": "npx",
+      "args": ["mcp-remote", "https://api.getappniche.com/mcp", "--header", "Authorization: Bearer YOUR_API_KEY"]
+    }
+  }
+}
